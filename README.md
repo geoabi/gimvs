@@ -35,3 +35,8 @@ This gadget is an implementation of the instructions provided with the documenta
 
 ## Problems and Contribution
 If you have problems running the script or you have suggestions, please open an issue [here](https://github.com/geoabi/gimvs/issues) at  GitHub. Also if you are interested in collaborate, please make a pull request.
+
+## Screenshots
+<img src="https://github.com/geoabi/gimvs/blob/master/swd_convertion.png" width="60%">
+<img src="https://github.com/geoabi/gimvs/blob/master/run_MaxentVariableSelection.png" width="60%">
+
